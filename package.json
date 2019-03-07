@@ -1,5 +1,5 @@
 {
-  "name": "communicate_between_components",
+  "name": "communication_between_components",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
